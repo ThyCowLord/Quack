@@ -29,7 +29,7 @@ All code is vetted.
 ### Format
 Create a [appname].sh file with everything and anything needed. 
 For example, if your app's name is PloPolp it would be plopolp.sh.
-
+No file descriptors.
 ## Advantages
 #### It's lightweight
 
